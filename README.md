@@ -5,15 +5,15 @@ This project allowed me to use Python syntax through visual editor to compile an
 * 1. Get the total number of election votes 
 * 2. Extract the county votes for each candidate along with each candidates overall percentage of county votes
 * 3. Get the name of the city with the largest turout along with the individual candidates percentage of votes from that county's turnout
-*4 Determine the winner, winnning vote count, and the winning percentage
-##Resources
+* 4. Determine the winner, winnning vote count, and the winning percentage
+## Resources
 ---
 * election_results.cvs
 * Software: Python 3.7  * Visual Studio Code 
 ## Summary
 ---
 There were 369,711 votes casted in total during the election.
-** The candidates were:
+* The candidates were:
   * 1. Charles Casper Stockham
   * 2. Diana DeGette
   * 3. Raymon Anthony Doane
