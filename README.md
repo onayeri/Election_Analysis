@@ -9,20 +9,26 @@ This project allowed me to use Python syntax through visual editor to compile an
 ##Resources
 ---
 * election_results.cvs
-* Software: Python 3.7, Visual Studio Code 
+* Software: Python 3.7 * Visual Studio Code 
 ##Summary
 ---
-There were -- votes casted in total during the election.
+There were "369,711" votes casted in total during the election.
 ** The candidates were:
-  *Charles Casper Stockham
-  *Diana DeGette
-  *Raymon Anthony Doane
+  * 1. Charles Casper Stockham
+  * 2. Diana DeGette
+  * 3. Raymon Anthony Doane
 ** The candidiate results were:
-  * Candidate 1 recieved  % of the vote and - number of votes
-  * Candidate 2
-  * Candidate 3
+  * Candidate 1 recieved "23.0%" of the vote and "85,213" number of votes.
+  * Candidate 2 recieved "73.8%" of the vote and "272,892" number of votes.
+  * Candidate 3 recieved "3.1%" of the vote and "11,606" number of votes.
+** The winner of the election was: 
+   * Candidate 2: Dianna DeGette, who recieved "73.8%" of the vote and "272,892" number of votes.
+  ---
+  ![image](https://user-images.githubusercontent.com/105329532/180115408-adb76339-22f0-4cc4-8f23-4aca4a1f4bde.png)
+  
 Challenge Overview
+--- 
+## Challenge Summary
 ---
-Challenge Summary
----
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The election commision could reuse the structure of this code again with any candidate or election type.The varaiables can be modified to match the circustances for the data being collected and the csv dataset iformation would need to mofified so that it can be implemented in the code. This will allow the code to run in a similar fashion. Using the few modifications and the structure of the code, it would produce the correct numbers and percentages for the election of choice.
+
