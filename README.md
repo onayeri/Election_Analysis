@@ -24,7 +24,7 @@ There were 369,711 votes casted in total during the election.
 * The winner of the election was: 
    * Candidate 2: Dianna DeGette, who recieved 73.8% of the vote and 272,892 number of votes.
 * The largestt county turnout was:
-   * Arapahoe
+   * Denver
   ---
   ![image](https://user-images.githubusercontent.com/105329532/180115408-adb76339-22f0-4cc4-8f23-4aca4a1f4bde.png)
   
